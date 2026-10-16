@@ -48,7 +48,7 @@ This workflow demonstrates the integration of external APIs with Python-based da
 
 ### 1. Interactive CLI & Weather Analytics
 
-![Interactive CLI and Weather Analytics](assets/screenshots/weather-cli-analytics.jpg)
+![Interactive CLI and Weather Analytics](assets/screenshots/weather-cli-analytics.png)
 
 The command-line interface guides users through location selection and presents the processed weather information, including temperature statistics, precipitation, wind conditions, and frost-related data.
 
